@@ -1,0 +1,16 @@
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Debug\ReverseMap\resources.pri
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Debug\AppxManifest.xml
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Debug\Javascript.build.appxrecipe
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\ResourceHandlingTask.state
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\priconfig.xml
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\priconfig.xml.intermediate
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\layout.resfiles
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\layout.resfiles.intermediate
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\resources.resfiles
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\resources.resfiles.intermediate
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\pri.resfiles
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\pri.resfiles.intermediate
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\qualifiers.txt
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\qualifiers.txt.intermediate
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\tanner\documents\visual studio 2017\Projects\Javascript\Javascript\bld\Debug\ProjectArchitectures.txt

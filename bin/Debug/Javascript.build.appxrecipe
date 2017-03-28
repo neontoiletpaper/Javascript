@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-30ICN9F</Machine>
+    <WindowsUser>Tanner</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d0e2557c-efec-4be5-b837-9acd8ccb53f6</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Tanner</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\gray-background-repeating-2.jpg">
+      <PackagePath>images\gray-background-repeating-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard11.jpg">
+      <PackagePath>images\longboard11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard12.jpg">
+      <PackagePath>images\longboard12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard13.jpg">
+      <PackagePath>images\longboard13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard14.jpg">
+      <PackagePath>images\longboard14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard15.jpg">
+      <PackagePath>images\longboard15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard21.jpg">
+      <PackagePath>images\longboard21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard22.jpg">
+      <PackagePath>images\longboard22.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard23.jpg">
+      <PackagePath>images\longboard23.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard24.jpg">
+      <PackagePath>images\longboard24.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard25.jpg">
+      <PackagePath>images\longboard25.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard31.jpg">
+      <PackagePath>images\longboard31.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard32.jpg">
+      <PackagePath>images\longboard32.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard33.jpg">
+      <PackagePath>images\longboard33.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard34.jpg">
+      <PackagePath>images\longboard34.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\images\longboard35.jpg">
+      <PackagePath>images\longboard35.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\index.html">
+      <PackagePath>jquery\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\AUTHORS.txt">
+      <PackagePath>jquery\AUTHORS.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\LICENSE.txt">
+      <PackagePath>jquery\LICENSE.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\external\jquery\jquery.js">
+      <PackagePath>jquery\external\jquery\jquery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.js">
+      <PackagePath>jquery\jquery-ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.min.js">
+      <PackagePath>jquery\jquery-ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\js\jquery.js">
+      <PackagePath>js\jquery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\js\dragndrop.js">
+      <PackagePath>js\dragndrop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_glass_20_555555_1x400.png">
+      <PackagePath>jquery\images\ui-bg_glass_20_555555_1x400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_glass_40_0078a3_1x400.png">
+      <PackagePath>jquery\images\ui-bg_glass_40_0078a3_1x400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_glass_40_ffc73d_1x400.png">
+      <PackagePath>jquery\images\ui-bg_glass_40_ffc73d_1x400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_gloss-wave_25_333333_500x100.png">
+      <PackagePath>jquery\images\ui-bg_gloss-wave_25_333333_500x100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_highlight-soft_80_eeeeee_1x100.png">
+      <PackagePath>jquery\images\ui-bg_highlight-soft_80_eeeeee_1x100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_inset-soft_25_000000_1x100.png">
+      <PackagePath>jquery\images\ui-bg_inset-soft_25_000000_1x100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-bg_inset-soft_30_f58400_1x100.png">
+      <PackagePath>jquery\images\ui-bg_inset-soft_30_f58400_1x100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-icons_222222_256x240.png">
+      <PackagePath>jquery\images\ui-icons_222222_256x240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-icons_4b8e0b_256x240.png">
+      <PackagePath>jquery\images\ui-icons_4b8e0b_256x240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-icons_a83300_256x240.png">
+      <PackagePath>jquery\images\ui-icons_a83300_256x240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-icons_cccccc_256x240.png">
+      <PackagePath>jquery\images\ui-icons_cccccc_256x240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\images\ui-icons_ffffff_256x240.png">
+      <PackagePath>jquery\images\ui-icons_ffffff_256x240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.css">
+      <PackagePath>jquery\jquery-ui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.min.css">
+      <PackagePath>jquery\jquery-ui.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.structure.css">
+      <PackagePath>jquery\jquery-ui.structure.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.structure.min.css">
+      <PackagePath>jquery\jquery-ui.structure.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.theme.css">
+      <PackagePath>jquery\jquery-ui.theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\jquery-ui.theme.min.css">
+      <PackagePath>jquery\jquery-ui.theme.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\stylesheet.css">
+      <PackagePath>stylesheet.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\jquery\package.json">
+      <PackagePath>jquery\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tanner\Documents\Visual Studio 2017\Projects\Javascript\Javascript\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

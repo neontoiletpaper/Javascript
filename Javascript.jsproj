@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>d0e2557c-efec-4be5-b837-9acd8ccb53f6</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0'">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.14393.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>$(VersionNumberMajor).$(VersionNumberMinor)</MinimumVisualStudioVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>Javascript_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="images\gray-background-repeating-2.jpg" />
+    <Content Include="images\longboard11.jpg" />
+    <Content Include="images\longboard12.jpg" />
+    <Content Include="images\longboard13.jpg" />
+    <Content Include="images\longboard14.jpg" />
+    <Content Include="images\longboard15.jpg" />
+    <Content Include="images\longboard21.jpg" />
+    <Content Include="images\longboard22.jpg" />
+    <Content Include="images\longboard23.jpg" />
+    <Content Include="images\longboard24.jpg" />
+    <Content Include="images\longboard25.jpg" />
+    <Content Include="images\longboard31.jpg" />
+    <Content Include="images\longboard32.jpg" />
+    <Content Include="images\longboard33.jpg" />
+    <Content Include="images\longboard34.jpg" />
+    <Content Include="images\longboard35.jpg" />
+    <Content Include="index.html" />
+    <Content Include="jquery\AUTHORS.txt" />
+    <Content Include="jquery\external\jquery\jquery.js" />
+    <Content Include="jquery\images\ui-bg_glass_20_555555_1x400.png" />
+    <Content Include="jquery\images\ui-bg_glass_40_0078a3_1x400.png" />
+    <Content Include="jquery\images\ui-bg_glass_40_ffc73d_1x400.png" />
+    <Content Include="jquery\images\ui-bg_gloss-wave_25_333333_500x100.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_80_eeeeee_1x100.png" />
+    <Content Include="jquery\images\ui-bg_inset-soft_25_000000_1x100.png" />
+    <Content Include="jquery\images\ui-bg_inset-soft_30_f58400_1x100.png" />
+    <Content Include="jquery\images\ui-icons_222222_256x240.png" />
+    <Content Include="jquery\images\ui-icons_4b8e0b_256x240.png" />
+    <Content Include="jquery\images\ui-icons_a83300_256x240.png" />
+    <Content Include="jquery\images\ui-icons_cccccc_256x240.png" />
+    <Content Include="jquery\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="jquery\index.html" />
+    <Content Include="jquery\jquery-ui.css" />
+    <Content Include="jquery\jquery-ui.js" />
+    <Content Include="jquery\jquery-ui.min.css" />
+    <Content Include="jquery\jquery-ui.min.js" />
+    <Content Include="jquery\jquery-ui.structure.css" />
+    <Content Include="jquery\jquery-ui.structure.min.css" />
+    <Content Include="jquery\jquery-ui.theme.css" />
+    <Content Include="jquery\jquery-ui.theme.min.css" />
+    <Content Include="jquery\LICENSE.txt" />
+    <Content Include="jquery\package.json" />
+    <Content Include="stylesheet.css" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\dragndrop.js" />
+    <None Include="Javascript_TemporaryKey.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>
